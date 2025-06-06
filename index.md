@@ -1,4 +1,4 @@
-# 📚 Course Lessons
+# 📚 Course Lessons 2
 
 Welcome to the course! Below is the list of lessons:
 
