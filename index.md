@@ -30,7 +30,7 @@ Steps:
 ![image](https://github.com/user-attachments/assets/8bbd36d5-b7fe-4324-a2db-4fed9a7f689f)
 
 3. Go through ayat by ayat, showing them individual words in the ayat, they need to take a pencil and draw horizontal lines separating the words.
-![image](https://github.com/user-attachments/assets/db4bdad2-c06a-4166-b04b-001f26da5692)
+![image](https://github.com/user-attachments/assets/32896cc7-2fde-4f98-8d86-bd10d8f906b8)
 
 4. Teach them skills to identify three types of words:
 - Ism:
