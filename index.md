@@ -89,7 +89,7 @@ Purpose of this Lesson:
 The general principles for the first 8 ayat have been covered. But it is recommended to continue this approach
 for the next 30 ayat before doing the next lesson so that students get practice identifying enough words and get examples of pronouns.
 
-# Lesson 2 - The Key To Identifying Words - Pronouns
+# Lesson 2 - The Key To Identifying Words - Pronouns (10 sessions - 10 hours)
 
 ## Grammar Rules So Far...
 
@@ -113,23 +113,28 @@ Now let us try to formalize some of the grammer rules through pronouns:
 
 ![image](https://github.com/user-attachments/assets/f9cc0417-d580-4afb-a208-a00e561b1f28)
 
-# How the pronouns tables work with nouns+ and particles
+# How the pronouns tables work with nouns+ and particles (7 sessions - 7 hours)
 
 ![image](https://github.com/user-attachments/assets/edd80c36-861c-4da2-b3f6-8f88630fe98e)
 
 ![image](https://github.com/user-attachments/assets/cefcd7e8-0184-487e-b334-e38e43d4e969)
 
-Now redo the 30 ayat using the pronoun table. Create a new table with all the pronouns and identify the number, gender and person for each pronoun.
+Now redo the 30 ayat using the pronoun table for nouns+ and particles. Create a new table with all the pronouns and identify the number, gender and person for each pronoun.
 
-# How the pronouns tables work with verbs
+# How the pronouns tables work with verbs (baab 1 - only) (3 sessions - 3 hours)
+
+Once the students are comfortable using the tables to identify pronouns for nouns and particles then only move over to pronouns for verbs.
+The idea behind this is that the pronoun will help the student identify the type of verb they find.
+The key difference for these tables is that it highlights either the Pr - Prefix and/or Su - Suffix to help identify the verb, and if it is past/present.
+Note - this only applies to baab 1 verbs.
 
 ![image](https://github.com/user-attachments/assets/f241a65e-9547-43e8-8622-eb6a2b89068a)
 
 ![image](https://github.com/user-attachments/assets/34fa9e37-e052-4396-8ed1-0ec6ef7fa698)
 
-For example:
+Now redo the 30 ayat using the pronoun table for verbs. Create a new table with all the verbs and identify the number, gender and person for each verb.
 
-
+> Pending lessons:...
 
 # Lesson 3 - Types of Verbs
 
@@ -143,11 +148,7 @@ For example:
 
 # Lesson 8 - Understand Rhetoric/balagha - why certain words/phrases/verb types… were chosen, impact of meaning
 
-## Table of Contents
 
-1. [Lesson 1: Introduction](https://bbdev18.github.io/practical_arabic_grammer/lesson1)
-2. [Lesson 2: Data Types](https://bbdev18.github.io/practical_arabic_grammer/lesson2)
-3. [Lesson 3: Control Flow](https://bbdev18.github.io/practical_arabic_grammer/lesson3)
 
 ---
 
