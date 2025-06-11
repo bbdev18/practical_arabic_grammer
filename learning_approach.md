@@ -2,6 +2,10 @@
 
 Meaning: Make it easy for beginners to get started without being overwhelmed.
 
+> Ref: https://www.linkedin.com/pulse/low-floor-high-ceiling-wide-walls-making-learning-engaging-nieves-xzbae/
+
+> ![image](https://github.com/user-attachments/assets/c8ceca95-9824-49e7-a5d8-c6c701a625e3)
+
 ## Applied to Quranic Arabic:
 
 Avoid heavy grammar at first: Start with patterns, common phrases, or vocabulary they recognize from prayer (e.g., Rabb, Malik, 'Ibad).
