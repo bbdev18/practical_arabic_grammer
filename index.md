@@ -1,34 +1,28 @@
-# 📚 Teachers Guide For Teaching Quranic Grammer
+# 📚 Teaching Quranic Grammer for Part-Time Students
 
-## Quranic Arabic Goals
+- Lower the barrier of entry into the Quran! [Ref](https://bbdev18.github.io/practical_arabic_grammer/learning_approach)
 
-- Lower the barrier of entry into the Quran!
-
-[Ref](https://bbdev18.github.io/practical_arabic_grammer/learning_approach)
-
-### General Goals
+# General Goals
 
 1. Allow students to create a personal connection with the Quran from Day 1, and let the Quran teach them.
 2. Interact with the words and meanings.
 3. See the miracle in the Quranic Arabic language.
 
-### Quranic Arabic Levels
+# Quranic Arabic Levels
 
-1. Allow students to get familiar with identifying individual words that are many times grouped.
-2. Allow students to get identify the three main types of words, ism, fi'l, harf (noun+, verb, particle)
+1. Identify three types of words (noun+, verb, particle) - many times they are grouped.
 - feel free to use english grammar terms to lower the barrier of entry into the Quran.
-3. Identify pronouns
-4. Identify types of verbs: past or present
-5. Identify phrases
-6. Identify verbal sentences
-7. Identify root words
-8. Identify noun/nominal sentences
-9. Understand Rhetoric/balagha - why certain words/phrases/verb types… were chosen, impact of meaning
-
+2. Identify pronouns
+3. Identify types of verbs: past or present
+4. Identify phrases
+5. Identify verbal sentences
+6. Identify root words
+7. Identify noun/nominal sentences
+8. Understand Rhetoric/balagha - why certain words/phrases/verb types… were chosen, impact of meaning
 
 # Practical Skills
 
-## Level 1 and 2 - Identify words
+## Level 1 - Identify words
 
 Using Surah Yaseen.
 Steps:
@@ -90,7 +84,7 @@ Purpose of this Lesson:
 
 ![image](https://github.com/user-attachments/assets/a776cc60-c1a9-4fd4-8e1a-3cf2c3d9b9bc)
 
-# Level 3 - The Key To Identifying Words - Pronouns
+# Level 2 - The Key To Identifying Words - Pronouns
 
 Only do this lesson when sufficient ayat have been done - for example 30 ayat or at most of the pronouns 
 have been found.
@@ -107,19 +101,17 @@ have been found.
 
 
 
-# Level 4 - Types of Verbs
+# Level 3 - Types of Verbs
 
-# Level 5 - Phrases
+# Level 4 - Phrases
 
-# Level 6 - Verbal Sentances
+# Level 5 - Verbal Sentances
 
-# Level 7 - Root Words
+# Level 6 - Root Words
 
-# Level 8 - Nominal Sentence
+# Level 7 - Nominal Sentence
 
-# Level 9 - Understand Rhetoric/balagha - why certain words/phrases/verb types… were chosen, impact of meaning
-
-
+# Level 8 - Understand Rhetoric/balagha - why certain words/phrases/verb types… were chosen, impact of meaning
 
 ## Table of Contents
 
