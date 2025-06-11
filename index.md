@@ -27,13 +27,15 @@
 Using Surah Yaseen.
 Steps:
 1. Print out first 8 Ayat
-2. Go through ayat by ayat, showing them individual words in the ayat, they need to take a pencil and draw horizontal lines separating the words.
-3. Teach them skills to identify three types of words:
-- Ism: al and tanween go with them through all the 8 ayat and write down all these words
-- Harf: fixed words, go with them through all the 8 ayat and write down all the harfs
-- Fi'l:
+![image](https://github.com/user-attachments/assets/8bbd36d5-b7fe-4324-a2db-4fed9a7f689f)
 
-  ![image](https://github.com/user-attachments/assets/8bbd36d5-b7fe-4324-a2db-4fed9a7f689f)
+3. Go through ayat by ayat, showing them individual words in the ayat, they need to take a pencil and draw horizontal lines separating the words.
+![image](https://github.com/user-attachments/assets/db4bdad2-c06a-4166-b04b-001f26da5692)
+
+4. Teach them skills to identify three types of words:
+- Ism: circle `al` and `tanween` go with them through all the 8 ayat and write down all these words in a table
+- Harf: underline fixed words, go with them through all the 8 ayat and write down all the harfs in a table
+- Fi'l: leave out for now  
 
 With the students create a table like this:
 
