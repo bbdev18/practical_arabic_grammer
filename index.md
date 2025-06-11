@@ -105,7 +105,15 @@ for the next 30 ayat before doing the next lesson so that students get practice 
 
 ![image](https://github.com/user-attachments/assets/a776cc60-c1a9-4fd4-8e1a-3cf2c3d9b9bc)
 
-# Tables
+# Pronoun Tables
+
+Now let us try to formalize some of the grammer rules through the pronouns tables. To summarize what we will cover:
+
+![image](https://github.com/user-attachments/assets/58242e47-bc73-4860-b0c8-052f216bd7d8)
+
+![image](https://github.com/user-attachments/assets/f9cc0417-d580-4afb-a208-a00e561b1f28)
+
+Now redo the 30 ayat using the tables to identify what each pronoun refers to:
 
 ![image](https://github.com/user-attachments/assets/dcb7658b-e0e0-4ded-8a88-04593d84f69a)
 
@@ -113,9 +121,7 @@ for the next 30 ayat before doing the next lesson so that students get practice 
 
 ![image](https://github.com/user-attachments/assets/34fa9e37-e052-4396-8ed1-0ec6ef7fa698)
 
-![image](https://github.com/user-attachments/assets/58242e47-bc73-4860-b0c8-052f216bd7d8)
-
-![image](https://github.com/user-attachments/assets/f9cc0417-d580-4afb-a208-a00e561b1f28)
+For example:
 
 
 
