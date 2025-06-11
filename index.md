@@ -2,9 +2,9 @@
 
 ## Teaching Objective
 
-> Lower the barrier of entry into the Quran!
+- Lower the barrier of entry into the Quran!
 
-> Low floor, high ceiling, wide walls
+- Low floor, high ceiling, wide walls
 
 > Ref: https://www.linkedin.com/pulse/low-floor-high-ceiling-wide-walls-making-learning-engaging-nieves-xzbae/
 
