@@ -107,13 +107,19 @@ for the next 30 ayat before doing the next lesson so that students get practice 
 
 # Pronoun Tables
 
-Now let us try to formalize some of the grammer rules through the pronouns tables. To summarize what we will cover:
+Now let us try to formalize some of the grammer rules through pronouns:
 
 ![image](https://github.com/user-attachments/assets/58242e47-bc73-4860-b0c8-052f216bd7d8)
 
 ![image](https://github.com/user-attachments/assets/f9cc0417-d580-4afb-a208-a00e561b1f28)
 
-Now redo the 30 ayat using the tables to identify what each pronoun refers to:
+How the pronouns tables work:
+
+![image](https://github.com/user-attachments/assets/edd80c36-861c-4da2-b3f6-8f88630fe98e)
+
+![image](https://github.com/user-attachments/assets/faba93d0-5c53-4670-818f-987bf00b3949)
+
+Now redo the 30 ayat using the pronoun table. Create a new table with all the pronouns and identify the number, gender and person for each pronoun.
 
 ![image](https://github.com/user-attachments/assets/dcb7658b-e0e0-4ded-8a88-04593d84f69a)
 
