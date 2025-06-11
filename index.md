@@ -113,7 +113,7 @@ Now let us try to formalize some of the grammer rules through pronouns:
 
 ![image](https://github.com/user-attachments/assets/f9cc0417-d580-4afb-a208-a00e561b1f28)
 
-How the pronouns tables work with nouns+ and particles
+# How the pronouns tables work with nouns+ and particles
 
 ![image](https://github.com/user-attachments/assets/edd80c36-861c-4da2-b3f6-8f88630fe98e)
 
@@ -121,7 +121,7 @@ How the pronouns tables work with nouns+ and particles
 
 Now redo the 30 ayat using the pronoun table. Create a new table with all the pronouns and identify the number, gender and person for each pronoun.
 
-![image](https://github.com/user-attachments/assets/dcb7658b-e0e0-4ded-8a88-04593d84f69a)
+# How the pronouns tables work with verbs
 
 ![image](https://github.com/user-attachments/assets/f241a65e-9547-43e8-8622-eb6a2b89068a)
 
