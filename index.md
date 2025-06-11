@@ -4,6 +4,8 @@
 
 - Lower the barrier of entry into the Quran!
 
+[Ref](https://bbdev18.github.io/practical_arabic_grammer/learning_approach)
+
 ### General Goals
 
 1. Allow students to create a personal connection with the Quran from Day 1, and let the Quran teach them.
