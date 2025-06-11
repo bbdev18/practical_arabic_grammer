@@ -24,19 +24,23 @@
 
 ## Level 1 - Identify words
 
+Most important skill is to first identify individual words. Many students get confused as words may be close to each or many times
+the words are joined. So this is the key first step to get students comfortable with identifying words. The first 8 ayat is usually enough
+for them to understand the concept and not too necessary to continue this. But we will leave this step up to the discretion of the teacher.
+
 Using Surah Yaseen.
 Steps:
 1. Print out first 8 Ayat
 ![image](https://github.com/user-attachments/assets/8bbd36d5-b7fe-4324-a2db-4fed9a7f689f)
 
-3. Go through ayat by ayat:
+2. Go through ayat by ayat:
 - showing them individual words
 - grouped wordst
 - draw horizontal lines separating the words and grouped words
 ![image](https://github.com/user-attachments/assets/4eff4189-49e7-434d-a0e1-4963729319bd)
 
 
-5. Teach them skills to identify three types of words:
+3. Teach them skills to identify three types of words:
 - Ism: circle `al` and `tanween` in all the 8 ayat and write down all these words in a table
 ![image](https://github.com/user-attachments/assets/2e94d3ff-654d-4ed7-9b8f-b814eb03e86d)
 
@@ -61,7 +65,7 @@ Show that many times a harf is also joined with other words:
 
 ![image](https://github.com/user-attachments/assets/738ee5e8-6880-4700-80a0-da939606d1be)
 
-Create a table now of Fi'l with the students:
+The remaining words you have not covered should now be all the verbs. So create a table now of all the verbs with the students:
 
 ![image](https://github.com/user-attachments/assets/31f7b374-07fc-40fa-abfb-688cacdb0554)
 
