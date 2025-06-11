@@ -33,7 +33,8 @@ Steps:
 - showing them individual words
 - grouped wordst
 - draw horizontal lines separating the words and grouped words
-![image](https://github.com/user-attachments/assets/32896cc7-2fde-4f98-8d86-bd10d8f906b8)
+![image](https://github.com/user-attachments/assets/4eff4189-49e7-434d-a0e1-4963729319bd)
+
 
 5. Teach them skills to identify three types of words:
 - Ism: circle `al` and `tanween` in all the 8 ayat and write down all these words in a table
