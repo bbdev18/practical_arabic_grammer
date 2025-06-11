@@ -33,7 +33,9 @@ Steps:
 ![image](https://github.com/user-attachments/assets/db4bdad2-c06a-4166-b04b-001f26da5692)
 
 4. Teach them skills to identify three types of words:
-- Ism: circle `al` and `tanween` go with them through all the 8 ayat and write down all these words in a table
+- Ism:
+  - circle `al` and `tanween` in all the 8 ayat and write down all these words in a table
+  - circle all fixed words in all the 8 ayat and write down all these words in a table
 - Harf: underline fixed words, go with them through all the 8 ayat and write down all the harfs in a table
 - Fi'l: leave out for now  
 
