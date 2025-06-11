@@ -8,7 +8,7 @@
 2. Interact with the words and meanings.
 3. See the miracle in the Quranic Arabic language.
 
-# Quranic Arabic Levels
+# Quranic Arabic Lessons
 
 1. Identify three types of words (noun+, verb, particle) - many times they are grouped.
 - feel free to use english grammar terms to lower the barrier of entry into the Quran.
@@ -22,7 +22,7 @@
 
 # Practical Skills
 
-## Level 1 - Identify words
+## Lesson 1 - Identify words (3 sessions - at least 1 hour each)
 
 Most important skill is to first identify individual words. Many students get confused as words may be close to each or many times
 the words are joined. So this is the key first step to get students comfortable with identifying words. The first 8 ayat is usually enough
@@ -84,6 +84,13 @@ Purpose of this Lesson:
 - Get familiar with identifying types of words
 - Get familiar with some basic grammar concepts
 
+# Note to teacher
+
+The general principles for the first 8 ayat have been covered. But it is recommended to continue this approach
+for the next 30 ayat before doing the next lesson so that students get practice identifying enough words and get examples of pronouns.
+
+# Lesson 2 - The Key To Identifying Words - Pronouns
+
 ## Grammar Rules So Far...
 
 ### Ism Primary Signs
@@ -98,10 +105,7 @@ Purpose of this Lesson:
 
 ![image](https://github.com/user-attachments/assets/a776cc60-c1a9-4fd4-8e1a-3cf2c3d9b9bc)
 
-# Level 2 - The Key To Identifying Words - Pronouns
-
-Only do this lesson when sufficient ayat have been done - for example 30 ayat or at most of the pronouns 
-have been found.
+# Tables
 
 ![image](https://github.com/user-attachments/assets/dcb7658b-e0e0-4ded-8a88-04593d84f69a)
 
@@ -115,17 +119,17 @@ have been found.
 
 
 
-# Level 3 - Types of Verbs
+# Lesson 3 - Types of Verbs
 
-# Level 4 - Phrases
+# Lesson 4 - Phrases
 
-# Level 5 - Verbal Sentances
+# Lesson 5 - Verbal Sentances
 
-# Level 6 - Root Words
+# Lesson 6 - Root Words
 
-# Level 7 - Nominal Sentence
+# Lesson 7 - Nominal Sentence
 
-# Level 8 - Understand Rhetoric/balagha - why certain words/phrases/verb types… were chosen, impact of meaning
+# Lesson 8 - Understand Rhetoric/balagha - why certain words/phrases/verb types… were chosen, impact of meaning
 
 ## Table of Contents
 
