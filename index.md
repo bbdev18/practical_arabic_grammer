@@ -67,7 +67,7 @@ Show that many times a harf is also joined with other words:
 
 The remaining words you have not covered should now be all the verbs. So create a table now of all the verbs with the students:
 
-![image](https://github.com/user-attachments/assets/31f7b374-07fc-40fa-abfb-688cacdb0554)
+![image](https://github.com/user-attachments/assets/8143b5ee-5c6c-42fd-a543-74fb60de1444)
 
 Now homework for them to create a table like this with the three types next each others as columns:
 
