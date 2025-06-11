@@ -29,10 +29,13 @@ Steps:
 1. Print out first 8 Ayat
 ![image](https://github.com/user-attachments/assets/8bbd36d5-b7fe-4324-a2db-4fed9a7f689f)
 
-3. Go through ayat by ayat, showing them individual words in the ayat, they need to take a pencil and draw horizontal lines separating the words.
+3. Go through ayat by ayat:
+- showing them individual words
+- grouped wordst
+- draw horizontal lines separating the words and grouped words
 ![image](https://github.com/user-attachments/assets/32896cc7-2fde-4f98-8d86-bd10d8f906b8)
 
-4. Teach them skills to identify three types of words:
+5. Teach them skills to identify three types of words:
 - Ism: circle `al` and `tanween` in all the 8 ayat and write down all these words in a table
 ![image](https://github.com/user-attachments/assets/2e94d3ff-654d-4ed7-9b8f-b814eb03e86d)
 
